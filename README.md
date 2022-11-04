@@ -1,4 +1,4 @@
-# Wordlist Cryptocurrencies 
+# Wordlist Cryptocurrency
 <br>
 2300 words from Cryptospace.
 <br>
